@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png)
 <h1 align="center">Hi 👋, I'm Ahmed Bakhsouss</h1>
-<h3 align="center">A passionate software enginner</h3>
+<h3 align="center">I’m a software engineering student excited about diving into the world of technology. I’m passionate about coding and eager to learn new skills to solve real-world problems. I enjoy working on hands-on projects, collaborating with others, and growing my understanding of full-stack development. I’m looking forward to applying what I’ve learned to create impactful solutions and continue my journey in tech.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boopafz&label=Profile%20views&color=0e75b6&style=flat" alt="boopafz" /> </p>
